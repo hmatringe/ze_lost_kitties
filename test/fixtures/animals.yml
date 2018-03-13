@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  category: MyString
+  name: MyString
+  found_on: 2018-03-13
+  location: MyString
+  flying: false
+
+two:
+  category: MyString
+  name: MyString
+  found_on: 2018-03-13
+  location: MyString
+  flying: false
